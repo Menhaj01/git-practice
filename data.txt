@@ -1,3 +1,3 @@
 Name: Menhaj
 Age:20
-favorite color: black
+favorite color: black and red
